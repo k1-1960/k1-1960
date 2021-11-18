@@ -1,7 +1,9 @@
 ### <a href="https://emoji.gg/emoji/3903-diamond-spin"><img src="https://emoji.gg/assets/emoji/3903-diamond-spin.gif" width="28px" height="24px" alt="diamond_spin"></a>Hola!, mi nombre es k1-1960<a href="https://emoji.gg/emoji/3903-diamond-spin"><img src="https://emoji.gg/assets/emoji/3903-diamond-spin.gif" width="28px" height="24px" alt="diamond_spin"></a>
-<img src="https://emoji.gg/assets/emoji/2556-pixel-emoji-eyes-and-brows-dance.gif" width="24px" height="24px" alt="pixel_emoji_eyes_and_brows_dance" align="center">  Soy una persona interesada en la programación de todo tipo ^-^
+<img src="https://emoji.gg/assets/emoji/2556-pixel-emoji-eyes-and-brows-dance.gif" width="24px" height="24px" alt="pixel_emoji_eyes_and_brows_dance" align="center"> Mucho gusto!, yo soy un chico de 13 años y actualmente soy autodidacta en esto de la programación, aprendi por mi propia cuenta y con ayuda de videos de Youtube. Si yo pude, ¿tu por que no habrías de poder?.
+ 
+<img src="https://emoji.gg/assets/emoji/8773-spongebob-smug.png" width="24px" height="24px" alt="spongebob_smug" align="center"> Actualmente estoy trabajando en una dashboard para mi bot principal, el cual es DarkGuy ;)
 
-<img src="https://emoji.gg/assets/emoji/8773-spongebob-smug.png" width="24px" height="24px" alt="spongebob_smug" align="center"> Actualmente estoy aprendiendo a hacer una dashboard :)
+<img src="https://images-ext-1.discordapp.net/external/0b-ELNSIGxXYRQ1xiBJdS5uu_0bafb93GMnY8XnNPWA/https/cdn.discordapp.com/emojis/846480964573724682.gif" width="24px" height="24px" align="center"> Me considero a mi mismo como alguien bastante bueno en la programación, obviamente no soy el mejor pero todo con esfuerzo se puede lograr ;D
 
 #### Medios:
 
