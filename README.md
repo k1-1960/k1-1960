@@ -1,4 +1,5 @@
-### <a href="https://emoji.gg/emoji/3903-diamond-spin"><img src="https://emoji.gg/assets/emoji/3903-diamond-spin.gif" width="28px" height="24px" alt="diamond_spin"></a>Hello!, Im K1#1960 | @ImK1_1960<a href="https://emoji.gg/emoji/3903-diamond-spin"><img src="https://emoji.gg/assets/emoji/3903-diamond-spin.gif" width="28px" height="24px" alt="diamond_spin"></a>
+### Hello!, Im K1#1960 | @ImK1_1960
+
 🇲🇽 - Tengo 13 años y soy desarrollador avanzado de bots de Discord en node.js - hablo español y un poco de ingles.
 
 🇺🇸 - Im 13 years old and im an advanced Discord bots developer in node.js - I speak spanish and a little bit of english.
