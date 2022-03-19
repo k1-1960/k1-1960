@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/imk1_1960" target="blank"><img src="https://img.shields.io/twitter/follow/imk1_1960?logo=twitter&style=for-the-badge" alt="imk1_1960" /></a> </p>
 
-- 🔭 I’m currently working on **DarkGuy**
+- 🔭 I’m currently working on [**DarkGuy**](https://www.darkguy.ml).
 
 - 🌱 I’m currently learning **Frontend and Backend.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/k1-1960?tab=repositories](https://github.com/k1-1960?tab=repositories)
+- 👨‍💻 All of my projects are available at [**repositories**](https://github.com/k1-1960?tab=repositories).
 
 - 📫 How to reach me **k1.codingworld@gmail.com**
 
