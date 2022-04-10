@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Frontend y principalmente Backend.**
 
-- 👨‍💻 Todos is proyectos están disponibles en [**repositories**](https://github.com/k1-1960?tab=repositories).
+- 👨‍💻 Todos mis proyectos están disponibles en [**repositories**](https://github.com/k1-1960?tab=repositories).
 
 - 💭 Busco **colaborar con alguien en la creación de bots.**
 
