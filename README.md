@@ -1,4 +1,4 @@
-<h1><img width="100%" src="https://i.imgur.com/zQkZYX5.png"></h1>
+<h1 alt="Hola, soy K1"><img width="100%" src="https://i.imgur.com/zQkZYX5.png"></h1>
 
 ## Otras cosas.
 ### Especificaciones de mi dispositivo.
