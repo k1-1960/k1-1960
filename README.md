@@ -1,5 +1,5 @@
 <img width="100%" src="https://i.imgur.com/zQkZYX5.png">
-
+<p align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></p>
 <p align="center">Me gusta crear bots de Discord y experimentar cosas nuevas.</p>
 
 ## Acerca de mí
