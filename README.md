@@ -2,7 +2,7 @@
 
 <p align="center">Me gusta crear bots de Discord y experimentar cosas nuevas.</p>
 
-## Acerca de mí.
+## Acerca de mí
 - `Edad:` 13 años (19/11/2008)
 - `Nacionalidad:` 🇲🇽 Mexicano
 - `Meta:` <img width="24px" align="center" src="https://images.vexels.com/media/users/3/166351/isolated/preview/ca61915f2e4ce896431872205069c5c5-icono-de-diploma-de-graduacion.png"> Graduarme como ingeniero en software
@@ -14,7 +14,10 @@
 > - <img width="24px" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAn0ZUbtNE_f7XTrGcL9Kbu9SSSfbTvW92D2pWr5b-mLIufDUkQ8iurOiN&s=10"> JavaScript (para backend)
 > - <img width="24px" align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"> Python (Estudiando)
 
-## Otras cosas.
+> Más usado: <img width="24px" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAn0ZUbtNE_f7XTrGcL9Kbu9SSSfbTvW92D2pWr5b-mLIufDUkQ8iurOiN&s=10"> :star:
+<br>
+
+## Otras cosas
 ### Especificaciones de mi dispositivo.
 - `SO (Sistema operativo):` <img width="24px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Android_logo_%282014-2019%29.png"> Android 11
 - `Marca y modelo:` Samsung A12 (2020)
