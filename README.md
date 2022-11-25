@@ -4,7 +4,7 @@
 <p align="center"><a href="https://github.com/K1-studios">@K1-Studios</a></p>
 
 ## Acerca de mí
-- `Edad:` 13 años (19/11/2008)
+- `Edad:` 14 años (19/11/2008)
 - `Nacionalidad:` 🇲🇽 Mexicano
 - `Meta:` <img width="24px" align="center" src="https://images.vexels.com/media/users/3/166351/isolated/preview/ca61915f2e4ce896431872205069c5c5-icono-de-diploma-de-graduacion.png"> Graduarme como ingeniero en software
 
