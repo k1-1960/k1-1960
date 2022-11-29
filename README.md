@@ -9,7 +9,7 @@
 - `Meta:` <img width="24px" align="center" src="https://images.vexels.com/media/users/3/166351/isolated/preview/ca61915f2e4ce896431872205069c5c5-icono-de-diploma-de-graduacion.png"> Graduarme como ingeniero en software
 
 ## Estadisticas de GitHub
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=K1-1960&theme=onedark&locale=es&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1-1960&layout=compact&theme=onedark&locale=es&hide_border=true"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=K1-1960&theme=github_dark&locale=es&hide_border=false"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1-1960&layout=compact&theme=github_dark&locale=es&hide_border=false"></p>
 
 ## Otras cosas
 ### Especificaciones de mi dispositivo.
