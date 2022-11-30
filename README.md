@@ -5,4 +5,4 @@
 
 <h2 align="center">Redes sociales.</h2>
 
-<img src="https://i.imgur.com/xzkderh.png" href="https://discord.gg/wV8BYRyWaN">
+<p align="top"><img src="https://i.imgur.com/xzkderh.png" width="50%"><a href="https://discord.gg/wV8BYRyWaN">Servidor</a></p>
