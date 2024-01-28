@@ -14,6 +14,7 @@
   - CSS
   - JavaScript
   - TypeScript
+  - Node
 ### Frameworks 🏗️
   - React
   - Astro
